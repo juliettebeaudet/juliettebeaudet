@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+#### About me
 ##### Social entrepreneur and developer
+##### COO and associate at music startup daleGig
 ##### Student in Trybe School
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliettebeaudet)](https://github.com/anuraghazra/github-readme-stats)
 
-# Get to know my top languages
+#### Get to know my top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliettebeaudet)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Where to find me
