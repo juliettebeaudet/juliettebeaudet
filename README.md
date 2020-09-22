@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-# Social entrepreneur and developer
-# Student in Trybe School
+##### Social entrepreneur and developer
+##### Student in Trybe School
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliettebeaudet)](https://github.com/anuraghazra/github-readme-stats)
 
 # Get to know my top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliettebeaudet)](https://github.com/anuraghazra/github-readme-stats)
 
-# Where to find me
-# LinkedIn
+#### Where to find me
+##### LinkedIn
 
 <!--
 **juliettebeaudet/juliettebeaudet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
