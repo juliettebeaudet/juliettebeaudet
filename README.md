@@ -10,4 +10,7 @@
 
 #### Where to find me
 <a href="https://www.linkedin.com/in/juliette-beaudet/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/>
+<a href="https://gitlab.com/juliettebeaudet"><img src="http://img.shields.io/badge/-GitLab-orange?logo=gitlab" /> <a/>
+  
+ 
 
