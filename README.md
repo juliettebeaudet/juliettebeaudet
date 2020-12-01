@@ -1,5 +1,5 @@
 #### About me
-##### Hi there! I am a social entrepreneur and developer.
+##### Hi there! I am a developer and social entrepreneur.
 ##### I currently am a full-stack developer at JOGL, while learning more coding at Trybe school and acting as the COO of music startup daleGig.
 
 #### Able to code with
