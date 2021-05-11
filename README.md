@@ -1,6 +1,6 @@
 #### About me
 ##### Hi there! I am a developer and social entrepreneur.
-##### I currently am a full-stack developer at JOGL, while learning more coding at Trybe school and acting as the COO of music startup daleGig.
+##### Full-stack developer formed at brazilian Trybe school, I currently act as a front-end developer at JOGL.
 
 #### Able to code with
 <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" />
